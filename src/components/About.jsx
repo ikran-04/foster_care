@@ -49,10 +49,7 @@ const About = () => {
           About FosterCare Property Service
         </h1>
         <p ref={text} className="text-sm md:text-base text-gray-500">
-          I am Max Foster, the owner of FosterCare Property Service. I invite
-          you to contact me personally to learn more and to request a free
-          quote. We currently serve Southwest, West, Northwest Edmonton, and St.
-          Albert.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quibusdam temporibus error commodi ut explicabo natus nesciunt tenetur, sit labore rem consequuntur quis praesentium ullam. 
         </p>
         <div className="flex space-x-10">
           <a
